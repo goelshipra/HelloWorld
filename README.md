@@ -8,3 +8,4 @@ Testing build and deploy trigger
 Testing the build and deploy trigger for zip
 Testing the build in jenkins and upload zip to octopus
 Testing the build in jenkins and upload and create release in octopus
+Testing the build in jenkins and upload and create release and deploy in dev in octopus
